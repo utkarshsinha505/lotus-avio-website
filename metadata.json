@@ -1,0 +1,6 @@
+{
+  "name": "Lotus Avio",
+  "description": "Luxurious, cinematic website and presentation platform for Lotus Avio Audio & Visual Recording Studio, Where Sound Meets Vision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
